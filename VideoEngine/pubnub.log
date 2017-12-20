@@ -1,0 +1,226 @@
+# Logfile created on 2017-12-19 21:06:27 -0500 by logger.rb/56815
+E, [2017-12-19T21:06:27.693698 #12120] ERROR -- Pubnub: 
+D, [2017-12-19T21:23:15.350617 #1232] DEBUG -- Pubnub::Telementry: Initialized Telemetry
+D, [2017-12-19T21:23:15.351680 #1232] DEBUG -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.27
+D, [2017-12-19T21:23:15.353651 #1232] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:23:15.353651 #1232] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:23:15.354649 #1232] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:23:15.354649 #1232] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:23:15.354649 #1232] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:23:15.355680 #1232] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:23:15.355680 #1232] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:23:15.356678 #1232] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=video.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=V1uWshNfc9G7PrqM7mztA0AY_lg18QzFXFsdJzalo5k%3D&timestamp=1513736595&ttl=0&uuid=156f0181-9352-4f43-be22-5c4daa904bb2&w=0
+D, [2017-12-19T21:23:15.588168 #1232] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:23:15.590167 #1232] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:23:15.731488 #1232] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:23:15.731488 #1232] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:23:15.731488 #1232] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:23:15.731488 #1232] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:23:15.731488 #1232] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:23:15.731488 #1232] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:23:15.731488 #1232] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:23:15.731488 #1232] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=video.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=VF54bIaRmzmjUHYVlNkJMUFWDNqSGOPKjnDQrOiteEg%3D&timestamp=1513736595&ttl=0&uuid=156f0181-9352-4f43-be22-5c4daa904bb2&w=1
+D, [2017-12-19T21:23:15.798370 #1232] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:23:15.798370 #1232] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:23:15.798370 #1232] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:23:15.798370 #1232] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:23:15.798370 #1232] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:23:15.798370 #1232] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:23:15.798370 #1232] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:23:15.798370 #1232] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:23:15.798370 #1232] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:23:15.798370 #1232] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=notifications.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=9eQjtlWZIY4ZgittgXgzTMo7eE7mdZi61W_DunQkgwI%3D&timestamp=1513736595&ttl=0&uuid=156f0181-9352-4f43-be22-5c4daa904bb2&w=1
+D, [2017-12-19T21:23:15.882330 #1232] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:23:15.883329 #1232] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:26:22.871767 #6680] DEBUG -- Pubnub::Telementry: Initialized Telemetry
+D, [2017-12-19T21:26:22.872846 #6680] DEBUG -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.27
+D, [2017-12-19T21:26:22.875738 #6680] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:26:22.875738 #6680] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:26:22.876766 #6680] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:26:22.877739 #6680] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:26:22.877739 #6680] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:26:22.877739 #6680] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:26:22.878766 #6680] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:26:22.879765 #6680] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=video.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=FeP4zyEceflPrlw98RYv-BZFbo7uV0-XnA85TIkzwmU%3D&timestamp=1513736782&ttl=0&uuid=48fc73bb-4e8a-4499-8a87-1ad21db1d44c&w=0
+D, [2017-12-19T21:26:23.030817 #6680] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:26:23.031817 #6680] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:26:23.036817 #6680] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:26:23.036817 #6680] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:26:23.037781 #6680] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:26:23.037781 #6680] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:26:23.037781 #6680] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:26:23.037781 #6680] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:26:23.037781 #6680] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:26:23.038817 #6680] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=video.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=fttSZcTO4rD1Jv9O-ZehQJFrY4RyB974OUzOkIkEhKs%3D&timestamp=1513736783&ttl=0&uuid=48fc73bb-4e8a-4499-8a87-1ad21db1d44c&w=1
+D, [2017-12-19T21:26:23.095866 #6680] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:26:23.095866 #6680] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:26:23.095866 #6680] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:26:23.095866 #6680] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:26:23.095866 #6680] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:26:23.095866 #6680] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:26:23.095866 #6680] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:26:23.095866 #6680] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:26:23.095866 #6680] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:26:23.095866 #6680] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=notifications.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=pvpDmS3ad8fqj0TOCrm08ocCGsHM00s9zNWwlWq-LiM%3D&timestamp=1513736783&ttl=0&uuid=48fc73bb-4e8a-4499-8a87-1ad21db1d44c&w=1
+D, [2017-12-19T21:26:23.162818 #6680] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:26:23.163815 #6680] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:34:59.774724 #10788] DEBUG -- Pubnub::Telementry: Initialized Telemetry
+D, [2017-12-19T21:34:59.774724 #10788] DEBUG -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.27
+D, [2017-12-19T21:34:59.774724 #10788] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:34:59.774724 #10788] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:34:59.774724 #10788] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:34:59.774724 #10788] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:34:59.774724 #10788] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:34:59.774724 #10788] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:34:59.774724 #10788] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:34:59.774724 #10788] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=video.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=nvoMfwAeEKPMwOW3RA6lJbI4Pak5Qd2RitwFkFYfAmY%3D&timestamp=1513737299&ttl=0&uuid=67fd8730-66a8-41a9-908d-0e08f8acc122&w=0
+D, [2017-12-19T21:34:59.953438 #10788] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:34:59.953438 #10788] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:34:59.957439 #10788] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:34:59.957439 #10788] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:34:59.958438 #10788] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:34:59.958438 #10788] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:34:59.958438 #10788] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:34:59.958438 #10788] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:34:59.958438 #10788] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:34:59.959438 #10788] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=video.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=qe7J1HS3FAfJKx4OZPFzzo6IQlpLrWusQT9qEmqR0AI%3D&timestamp=1513737299&ttl=0&uuid=67fd8730-66a8-41a9-908d-0e08f8acc122&w=1
+D, [2017-12-19T21:35:00.011869 #10788] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:35:00.011869 #10788] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:35:00.011869 #10788] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:35:00.011869 #10788] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:35:00.011869 #10788] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:35:00.027494 #10788] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:35:00.027494 #10788] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:35:00.027494 #10788] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:35:00.027494 #10788] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:35:00.027494 #10788] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=notifications.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=R2R0_MwpYkMEF-S13zDdHap1Druwu96EHps_brLX72k%3D&timestamp=1513737300&ttl=0&uuid=67fd8730-66a8-41a9-908d-0e08f8acc122&w=1
+D, [2017-12-19T21:35:00.111351 #10788] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:35:00.111351 #10788] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:38:16.865372 #10288] DEBUG -- Pubnub::Telementry: Initialized Telemetry
+D, [2017-12-19T21:38:16.865372 #10288] DEBUG -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.27
+D, [2017-12-19T21:38:16.865372 #10288] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:38:16.865372 #10288] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:38:16.865372 #10288] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:38:16.865372 #10288] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:38:16.865372 #10288] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:38:16.865372 #10288] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:38:16.865372 #10288] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:38:16.865372 #10288] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=video.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=UTGFRHQgniGHwjf_sBKcn_qGXnQuoUtS7XudLphiKAs%3D&timestamp=1513737496&ttl=0&uuid=0c1bc265-4d4f-4482-be58-8dc3d722946f&w=0
+D, [2017-12-19T21:38:17.059873 #10288] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:38:17.060871 #10288] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:38:17.068393 #10288] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:38:17.068393 #10288] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:38:17.068393 #10288] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:38:17.068393 #10288] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:38:17.068393 #10288] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:38:17.068393 #10288] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:38:17.068393 #10288] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:38:17.068393 #10288] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=video.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=DMDOv9OAlHpI0GcOVPJc2GNqOMbYyDCoVp0dUR0PouI%3D&timestamp=1513737497&ttl=0&uuid=0c1bc265-4d4f-4482-be58-8dc3d722946f&w=1
+D, [2017-12-19T21:38:17.130977 #10288] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:38:17.130977 #10288] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:38:17.130977 #10288] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:38:17.146577 #10288] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:38:17.147412 #10288] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:38:17.148466 #10288] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:38:17.148466 #10288] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:38:17.148466 #10288] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:38:17.148466 #10288] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:38:17.150466 #10288] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=notifications.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=RFeKHsu4s_Tv5C3f7_Mf3f8A6YelYYwxAKeXJ3ug7OM%3D&timestamp=1513737497&ttl=0&uuid=0c1bc265-4d4f-4482-be58-8dc3d722946f&w=1
+D, [2017-12-19T21:38:17.199226 #10288] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:38:17.199226 #10288] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:40:27.595661 #9788] DEBUG -- Pubnub::Telementry: Initialized Telemetry
+D, [2017-12-19T21:40:27.595661 #9788] DEBUG -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.27
+D, [2017-12-19T21:40:27.595661 #9788] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:40:27.595661 #9788] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:40:27.595661 #9788] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:40:27.595661 #9788] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:40:27.595661 #9788] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:40:27.595661 #9788] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:40:27.595661 #9788] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:40:27.595661 #9788] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=video.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=VQcsQZXSDUJq4H1ng5luWIIUjjyPPXSwO49iqda3QsQ%3D&timestamp=1513737627&ttl=0&uuid=39e7a255-1ba9-4400-89ce-9d73ed789940&w=0
+D, [2017-12-19T21:40:27.772514 #9788] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:40:27.772514 #9788] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:40:27.776512 #9788] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:40:27.776512 #9788] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:40:27.776512 #9788] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:40:27.776512 #9788] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:40:27.776512 #9788] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:40:27.777513 #9788] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:40:27.777513 #9788] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:40:27.777513 #9788] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=video.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=Qc1bAIvd11O9X3WL6GOaPOY5w8WtS7RLx9Q3oJZIdPY%3D&timestamp=1513737627&ttl=0&uuid=39e7a255-1ba9-4400-89ce-9d73ed789940&w=1
+D, [2017-12-19T21:40:27.834415 #9788] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:40:27.835446 #9788] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:40:27.840448 #9788] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:40:27.840448 #9788] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:40:27.841447 #9788] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:40:27.842414 #9788] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:40:27.842414 #9788] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:40:27.842414 #9788] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:40:27.842414 #9788] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:40:27.844445 #9788] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=notifications.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=3uf-HRY2tACsKZcXH9-Kf8eeM-QKh9hmnBuwFhybtjY%3D&timestamp=1513737627&ttl=0&uuid=39e7a255-1ba9-4400-89ce-9d73ed789940&w=1
+D, [2017-12-19T21:40:27.898409 #9788] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:40:27.899441 #9788] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:42:10.028241 #12028] DEBUG -- Pubnub::Telementry: Initialized Telemetry
+D, [2017-12-19T21:42:10.028241 #12028] DEBUG -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.27
+D, [2017-12-19T21:42:10.028241 #12028] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:42:10.028241 #12028] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:42:10.028241 #12028] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:42:10.028241 #12028] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:42:10.028241 #12028] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:42:10.028241 #12028] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:42:10.028241 #12028] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:42:10.028241 #12028] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=video.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=sFe_7BSmNOaKDHo1PcHEbja073WNpnei3yqaNMhH_zY%3D&timestamp=1513737730&ttl=0&uuid=92484c48-139e-4df9-9f4d-8b81bdf5e3e7&w=0
+D, [2017-12-19T21:42:10.205351 #12028] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:42:10.205351 #12028] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:42:10.220948 #12028] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:42:10.220948 #12028] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:42:10.220948 #12028] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:42:10.220948 #12028] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:42:10.220948 #12028] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:42:10.220948 #12028] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:42:10.220948 #12028] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:42:10.220948 #12028] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=video.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=HPIn4ZIKEkcVD-JUJc2MCe7fo7fiaQ3JpxFjY6tvLJQ%3D&timestamp=1513737730&ttl=0&uuid=92484c48-139e-4df9-9f4d-8b81bdf5e3e7&w=1
+D, [2017-12-19T21:42:10.277571 #12028] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:42:10.277571 #12028] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:42:10.277571 #12028] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:42:10.277571 #12028] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:42:10.277571 #12028] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:42:10.277571 #12028] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:42:10.277571 #12028] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:42:10.277571 #12028] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:42:10.277571 #12028] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:42:10.277571 #12028] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=notifications.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=nMZ2RISS_dMvZir8C0GemdUC01qe-S3UQHUQqbtJreM%3D&timestamp=1513737730&ttl=0&uuid=92484c48-139e-4df9-9f4d-8b81bdf5e3e7&w=1
+D, [2017-12-19T21:42:10.340162 #12028] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:42:10.340162 #12028] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:42:43.611355 #6288] DEBUG -- Pubnub::Telementry: Initialized Telemetry
+D, [2017-12-19T21:42:43.611355 #6288] DEBUG -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.27
+D, [2017-12-19T21:42:43.626906 #6288] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:42:43.626906 #6288] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:42:43.626906 #6288] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:42:43.626906 #6288] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:42:43.626906 #6288] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:42:43.626906 #6288] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:42:43.626906 #6288] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:42:43.626906 #6288] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=video.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=YXeuztJUYryriYXiPrN4K02y0n_wL_4LIiBl47_tMqY%3D&timestamp=1513737763&ttl=0&uuid=34c0e8bc-2ebf-485b-911c-d3f87f1149e0&w=0
+D, [2017-12-19T21:42:43.773979 #6288] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:42:43.774379 #6288] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:42:43.774379 #6288] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:42:43.774379 #6288] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:42:43.774379 #6288] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:42:43.774379 #6288] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:42:43.774379 #6288] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:42:43.774379 #6288] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:42:43.774379 #6288] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:42:43.774379 #6288] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=video.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=kTK0Tq4QDiT8DS34gaJpYq90D3BjKz-yEFLAmN2vE9w%3D&timestamp=1513737763&ttl=0&uuid=34c0e8bc-2ebf-485b-911c-d3f87f1149e0&w=1
+D, [2017-12-19T21:42:43.836907 #6288] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:42:43.836907 #6288] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2017-12-19T21:42:43.836907 #6288] DEBUG -- Pubnub::Telemetry: Fetching telemetry for 
+D, [2017-12-19T21:42:43.836907 #6288] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2017-12-19T21:42:43.836907 #6288] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2017-12-19T21:42:43.836907 #6288] DEBUG -- Pubnub::Event: #send_request called
+D, [2017-12-19T21:42:43.836907 #6288] DEBUG -- Pubnub::SingleEvent: #request_dispatcher called
+D, [2017-12-19T21:42:43.836907 #6288] DEBUG -- Pubnub::Client: Looking for requester for sync single_event
+D, [2017-12-19T21:42:43.836907 #6288] DEBUG -- Pubnub::Event: #send_request got sender
+D, [2017-12-19T21:42:43.836907 #6288] DEBUG -- Pubnub::Event: Requested URI: http://ps.pndsn.com/v1/auth/grant/sub-key/sub-c-56b97168-e529-11e7-a7db-e6c6e9cd0a3f?channel=notifications.*&m=1&pnsdk=PubNub-Ruby%2F4.0.27&r=1&signature=UtL_3pHN0SUGAM3bYsiiMTU5vPHogsdvpforih_DH5U%3D&timestamp=1513737763&ttl=0&uuid=34c0e8bc-2ebf-485b-911c-d3f87f1149e0&w=1
+D, [2017-12-19T21:42:43.883810 #6288] DEBUG -- Pubnub::Event: Event#handle
+D, [2017-12-19T21:42:43.883810 #6288] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
